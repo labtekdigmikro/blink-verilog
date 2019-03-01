@@ -1,3 +1,5 @@
+//by lab tekdig&mikcro
+
 module clockounter(clkin, outled);
 
 input clkin;
